@@ -6,8 +6,7 @@
 [![YouTube Tutorial](https://img.shields.io/badge/YouTube-Video%20Tutorial-red?logo=youtube)](https://youtu.be/0rENbzBemRU?si=Ve-Bmj7cH0JZEX_L)
 [![Website](https://img.shields.io/badge/Website-thecodingbus.info-blue?logo=googlechrome)](https://thecodingbus.info/)
 
-A production-ready Google Mobile Ads (AdMob) extension for **MIT App Inventor**, **Kodular**, and **Niotron**.
-
+A production-ready Google Mobile Ads (AdMob) extension for **MIT App Inventor**
 ---
 
 ## 📺 Video Tutorial & Guide
