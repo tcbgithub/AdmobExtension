@@ -1,0 +1,17 @@
+# Build outputs
+build_out/
+temp_*.jar
+*.class
+bin/
+gen/
+
+# Rush and IDE files
+.rush/
+.idea/
+*.iml
+.vscode/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+

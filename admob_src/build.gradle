@@ -1,0 +1,14 @@
+plugins {
+    id 'java'
+}
+repositories {
+    google()
+    mavenCentral()
+}
+dependencies {
+    implementation 'com.google.android.gms:play-services-ads-lite:21.0.0'
+}
+task copyDeps(type: Copy) {
+    from configurations.runtimeClasspath
+    into 'deps_extracted'
+}

@@ -1,0 +1,22 @@
+name: TCBAdMob
+description: The Coding Bus AdMob Extension - High performance Google AdMob production ads for MIT App Inventor. Developed by The Coding Bus Team (thecodingbus.info).
+version:
+  number: 1
+  name: 1.0.0
+authors:
+  - The Coding Bus Team
+assets:
+  icon: icon.png
+min_sdk: 14
+build:
+  release:
+    optimize: false
+deps:
+  - browser.jar
+  - play-services-ads-base.jar
+  - play-services-ads-identifier.jar
+  - play-services-ads-lite.jar
+  - play-services-basement.jar
+  - play-services-measurement-base.jar
+  - play-services-measurement-sdk-api.jar
+  - play-services-tasks.jar
